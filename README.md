@@ -1,8 +1,10 @@
-# Wordlists com nomes em pt-br
+# Wordlists com nomes pt-br
 
-Masculinos: 79870
-Femininos: 98796
-Intersexo: 52593
+Masculinos: 761041
+
+Femininos: 847649
+
+Intersexo: 692011
 
 # PR
 
